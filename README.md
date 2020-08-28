@@ -9,7 +9,7 @@ Repository contains my implementations of Django for everyone course's assignmen
   - HTML
   - CSS
   - Bootstrap
-  - Jinja2
+  - Jinja2 (DTL)
 
 
 - Tu run locally
